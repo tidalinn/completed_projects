@@ -1,2 +1,3 @@
-# yandex_practicum
-Projects completed during education
+# completed_projects
+
+Выполненные проекты в процессе обучения на курсе Яндекс Практикума "Специалист по DataScience плюс"
